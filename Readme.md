@@ -72,10 +72,10 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 ## 📷 Dashboard Preview
 
 ### Executive Dashboard
-(Add executive dashboard screenshot)
+  executive dashboard screenshot added
 
 ### Product Performance Dashboard
-(Add product performance screenshot)
+  product performance screenshot added
 
 ---
 
