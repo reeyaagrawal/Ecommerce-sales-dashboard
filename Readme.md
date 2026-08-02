@@ -89,6 +89,11 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 
 ---
 
+
+## Note
+
+The Power BI (.pbix) file is currently not included due to GitHub upload size limitations.
+
 ## 👩‍💻 Author
 
 Riya Agrawal
